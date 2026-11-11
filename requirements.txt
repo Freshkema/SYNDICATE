@@ -1,7 +1,0 @@
-streamlit
-pandas
-openpyxl
-scipy
-numpy
-requests
-beautifulsoup4
